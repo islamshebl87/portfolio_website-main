@@ -1,20 +1,20 @@
 export const projects = [
   {
     title: 'Netflix Clone',
-    description: "Using React, TMDB API,  Creating Netflix Clone Application - from Scratch The App is called Sheblmoviesdb and hosted in netlify",
-      image: '/images/nfcss.png',
+    description: "Using React, TMDB API,  Creating Netflix Clone Application - from Scratch The App is called Sheblmoviesdb and hosted in netlify from Scratch The App is called Sheblmoviesdb and hosted in netlify from Scratch The App is called Sheblmoviesdb and hosted in netlify from Scratch The App is called Sheblmoviesdb and hosted in netlify",
+      image: '/images/netflix-2.png',
       tags: ['React', 'TMDB', 'Netflix'],
     source: 'https://github.com/islamshebl87/netflix-clone',
     visit: 'https://sheblmoviesdb.netlify.app/',
     id: 0,
   },
   {
-    title: 'E-Commerce',
+    title: 'GPT-3 ',
     description:"While building it you're going to learn many advanced React & JavaScript topics, as well as how to use Stripe for card transactions. On top of that, at the end of the video, you will have this unique and complex webshop app that you will be able to add to your portfolio. And trust me, e-commerce applications are impressive.",
-    image: '/images/2.png',
-    tags: ['React', 'JavaScript'],
-    source: 'https://google.com',
-    visit: 'https://google.com',
+    image: '/images/gpt3.png',
+    tags: ['React', 'JavaScript', 'Tailwind CSS'],
+    source: 'https://github.com/islamshebl87/project_modern_ui_ux_gpt3-main',
+    visit: 'https://shebl-gpt3.netlify.app',
     id: 1,
   },
   {
