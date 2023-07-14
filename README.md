@@ -1,6 +1,6 @@
 ## Personal Portfolio
 
-### [Live Site]([https://sheblportfolio.netlify.app]### [Live Site]([https://sheblportfolio.netlify.app]
+[Live Site]([https://sheblportfolio.netlify.app]
 
 ![Portfolio Website](https://i.ibb.co/WgPMpts/image.png)
 
