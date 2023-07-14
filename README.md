@@ -1,6 +1,6 @@
 ## Personal Portfolio
 
-### [Live Site]([https://jsmasterypro.com](https://sheblportfolio.netlify.app/))
+### [Live Site]([https://jsmasterypro.com]
 
 ![Portfolio Website](https://i.ibb.co/WgPMpts/image.png)
 
